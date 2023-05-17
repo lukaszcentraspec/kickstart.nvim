@@ -2,4 +2,9 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
+--return {
+--	require 'custom.plugins.remap',
+--	require 'custom.plugins.harpoon',
+--	require 'custom.plugins.colors'
+--}
 return {}
